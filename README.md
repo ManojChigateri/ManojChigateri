@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Manoj Chigateri
-- 👀 I’m interested in | Python| Data Analytics | Cloud Computing | Web Development |
-- 🌱 I’m currently learning Power BI, Tableau, AWS.
+- 👀 I’m interested in | Data Analytics | |Data Visualization | Data Modelling | Python | Cloud Computing |
+- 🌱 I’m proficient in Microsoft Excel, SQL, Power BI, Tableau, Python
 - 💞️ I’m looking to collaborate on AWS and Microsoft Azure
-- 📫 How to reach me manojchigateri04@gmail.com
+- 📫 How to reach me manojchigateri@gmail.com
 
 <!---
 ManojChigateri/ManojChigateri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
